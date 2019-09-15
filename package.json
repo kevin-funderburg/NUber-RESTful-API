@@ -1,0 +1,24 @@
+{
+  "name": "nuber",
+  "version": "1.0.0",
+  "description": "Assignment 2 repository for Team Starscream",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.3",
+    "npm": "^6.9.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://git.txstate.edu/CS-3398-251-Spring2019/Starscream.git"
+  }
+}
